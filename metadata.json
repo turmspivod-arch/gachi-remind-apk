@@ -1,0 +1,6 @@
+{
+  "name": "GachiRemind — Напоминания Босса Качалки",
+  "description": "Андроид-приложение (PWA) для напоминаний, дисциплины и привычек в стиле Гачимучи с голосовыми уведомлениями тренеров, звуковой декой и системой рангов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

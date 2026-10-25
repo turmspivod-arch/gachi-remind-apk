@@ -1,0 +1,9 @@
+{
+  "appId": "com.gachiremind.gym.app",
+  "appName": "GachiRemind",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
